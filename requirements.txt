@@ -1,2 +1,2 @@
 python-telegram-bot
-tensorflow
+tensorflow==1.7.0
