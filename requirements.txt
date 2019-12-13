@@ -2,3 +2,5 @@ opencv-python
 numpy
 python-telegram-bot
 tensorflow==1.10.0
+imageio
+pillow
