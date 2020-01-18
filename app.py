@@ -44,8 +44,8 @@ print("done")
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
-TOKEN = '965026452:AAHhv1WGGu4vaRNeWjiWS3qiDBWc0d4Iqrw'
-
+TOKEN = '965026452:AAHhv1WGGu####NeWjiWS3qiDBWc0d4Iqrw'
+#4vaR
 def get_photo(bot, update):
     chat_id = update.message.chat_id
     print(chat_id)
