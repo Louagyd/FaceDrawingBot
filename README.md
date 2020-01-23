@@ -1,11 +1,11 @@
 # FDBot
-Telegram Bot for Face Generation using Pix2Pix
+Telegram Bot for generating faces corresponding to a drawing as its input, using Pix2Pix.
 
 # Model
 the main model is from this [Pix2Pix article](https://arxiv.org/pdf/1611.07004v1.pdf) using their saurce code with some modifications and completions to be used in a Telegram bot. 
 
 # Data
-the target face and the input painting are from celebA dataset and their edge maps derived by canny edge detection algorithm. 
+the target faces and their corresponding input paintings are from celebA dataset and their edge maps derived by the canny edge detection algorithm. 
 
 
 # Result
